@@ -1,0 +1,18 @@
+.info_btn3{
+    padding: 10px 15px;
+    background-color: #D34A3F;
+    border-radius: 10px;
+    border: 1px solid #812a24;
+    transition: .5s;
+    
+}
+.info_btn3:hover{
+    background-color: #fff;
+    color: black;
+
+}
+.section_title{
+    color:#D34A3F;
+    font-size: 30px;
+    font-weight: 900;
+}
